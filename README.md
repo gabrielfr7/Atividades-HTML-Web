@@ -5,7 +5,7 @@ Este repositório contém **14 atividades** desenvolvidas na disciplina de **Web
 ## Gabriel Freire dos Anjos
 
 - [Atividade 1](https://gabrielfr7.github.io/Atividade1/)
-- [Atividade 2]
+- [Atividade 2](https://gabrielfr7.github.io/Atividade2/)
 - [Atividade 3]
 - [Atividade 4]
 - [Atividade 5]
