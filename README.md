@@ -2,9 +2,9 @@
 
 Este repositório contém **14 atividades** desenvolvidas na disciplina de **Web I**, utilizando HTML.  
 
-Gabriel Freire dos Anjos
+## Gabriel Freire dos Anjos
 
-- [Atividade 1]
+- [Atividade 1](https://gabrielfr7.github.io/Atividade1/)
 - [Atividade 2]
 - [Atividade 3]
 - [Atividade 4]
