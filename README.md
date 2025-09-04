@@ -13,7 +13,7 @@ Este repositório contém **14 atividades** desenvolvidas na disciplina de **Web
 - [Atividade 7](https://gabrielfr7.github.io/Atividade7/)
 - [Atividade 8](https://gabrielfr7.github.io/Atividade8/)
 - [Atividade 9](https://gabrielfr7.github.io/Atividade9/)
-- [Atividade 10]
+- [Atividade 10]( https://gabrielfr7.github.io/Atividade10/)
 - [Atividade 11](https://gabrielfr7.github.io/Atividade11/)
 - [Atividade 12]( https://gabrielfr7.github.io/Atividade12/)
 - [Atividade 13]
